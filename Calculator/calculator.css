@@ -1,0 +1,52 @@
+#abc{
+    background-color:skyblue;
+    width:240px;
+    height:390px;
+    position:relative;
+    top:150px;
+    left:600;
+    border-radius:130px;
+    border:3px solid yellow;
+   }
+.c
+{
+   position:relative;
+   top:22px;
+   left:30px;
+   color:white;
+   background-color:black;
+    
+   border-radius:80px;
+   width:40px;
+   height:30px;
+   margin-top:2px;
+}
+#sp
+{
+
+position:relative;
+left:15px;
+top:35px;
+}
+#cb{
+   height:20px;
+   width:130px;
+   background-color:pink;
+   color:black;
+   
+
+}
+
+#disp
+{
+   position:relative;
+   top:45px;
+   left:15px;
+   width:200px;
+   height:50px;
+   background-color:white;
+   border-radius:200px;
+   font-family:"comic sans ms";
+   font-size:24px;
+   font-weight:bold;
+}
